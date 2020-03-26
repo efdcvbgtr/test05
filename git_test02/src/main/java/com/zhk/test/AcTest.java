@@ -6,5 +6,7 @@ public class AcTest {
         System.out.println("ok");
 
         System.out.println("yes");
+
+        System.out.println("go");
     }
 }
